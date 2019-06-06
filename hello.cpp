@@ -8,4 +8,5 @@ int main()
 	cout << "666" << endl;
 	system("pause");
 	return 0;
+
 }
