@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-	cout << "hello" << endl;
-	cout << "man" << endl;
+	cout << "阿肥，我知道怎么解决合并加载慢的问题了" << endl;
 	system("pause");
 	return 0;
+
 }
