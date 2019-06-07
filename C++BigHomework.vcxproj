@@ -118,9 +118,6 @@
     <ClCompile Include="hello.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="new1.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="new2" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
